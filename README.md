@@ -1,2 +1,2 @@
-# Syeda-scollege
+# Syedascollege-demo
 This is my first git repository
